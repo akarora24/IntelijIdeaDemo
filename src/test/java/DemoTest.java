@@ -1,8 +1,6 @@
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import java.sql.DriverManager;
-
 public class DemoTest {
     public static void main(String[] args) {
         WebDriver driver = new ChromeDriver();
