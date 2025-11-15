@@ -8,5 +8,9 @@ public class DemoTest {
         System.out.println(driver.getCurrentUrl());
         System.out.println(driver.getTitle());
         System.out.println("123456");
+        System.out.println("123456");
+        System.out.println("123456");
+        System.out.println("123456");
+
     }
 }
