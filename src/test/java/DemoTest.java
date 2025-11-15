@@ -6,5 +6,7 @@ public class DemoTest {
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.google.co.in");
         System.out.println(driver.getCurrentUrl());
+        System.out.println(driver.getTitle());
+        System.out.println("123456");
     }
 }
